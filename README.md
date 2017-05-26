@@ -1,6 +1,8 @@
 # jmh-demo
 官方demo：http://hg.openjdk.java.net/code-tools/jmh/file/eddf6f5c3312/jmh-samples
 
+spring jmh demo https://github.com/SerCeMan/jmh-spring
+
 
 Java Microbenchmark JMH demo
 
