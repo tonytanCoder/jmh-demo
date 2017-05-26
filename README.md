@@ -1,4 +1,7 @@
 # jmh-demo
+官方demo：http://hg.openjdk.java.net/code-tools/jmh/file/eddf6f5c3312/jmh-samples
+
+
 Java Microbenchmark JMH demo
 
 环境windows+jdk8+maven
