@@ -1,0 +1,10 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,com/tan/JMHSample_35_Profilers$Atomic.setup
+inline,com/tan/JMHSample_35_Profilers$Atomic.test
+inline,com/tan/JMHSample_35_Profilers$Classy.load
+inline,com/tan/JMHSample_35_Profilers$Maps.setup
+inline,com/tan/JMHSample_35_Profilers$Maps.test
